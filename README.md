@@ -12,7 +12,8 @@
 
 <h4 align="center">You may get in contact with me via one of the methods below:</h4>
 
-![Email](https://img.shields.io/badge/cuda.christopher@gmail.com-E03D3B?logo=gmail&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjUiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cGF0aCBkPSJtMyA3IDkgNiA5LTYiLz48L3N2Zz4=)](mailto:shiki.dev@outlook.com)
+
 ![Discord](https://img.shields.io/badge/shikidev-5662F6?logo=discord&logoColor=white)
 
 <h6 align="center"><i>I can communicate in Français, English, Italiano & 日本語.
@@ -21,6 +22,6 @@
 
 </div>
 
-![Metrics](https://metrics.lecoq.io/cudac?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/ShikiDevs?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FToronto)
 
 <h6 align="center"><i>This README.md was last edited on: 03/16/2026</i></h6>
